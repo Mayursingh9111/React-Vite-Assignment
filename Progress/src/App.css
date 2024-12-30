@@ -1,0 +1,25 @@
+.App {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column; 
+}
+
+.container{
+  margin-top: 50px;
+  width: 400px;
+}
+
+.progress-bar{
+  height: 30px;
+  width: 100%;
+  background-color: gainsboro;
+  /* border-radius: 20px; */
+  text-align: center; 
+}
+h1{
+  text-decoration: underline;
+}
+.value{
+  text-align: center;
+}
